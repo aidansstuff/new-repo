@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_credits.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits normal0000" x="2" y="2" width="488" height="139" pivotX="0" pivotY="0"/>
+	<SubTexture name="credits selected0000" x="2" y="143" width="488" height="139" pivotX="0" pivotY="0"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sdown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "crying",
+			"indices": [],
+			"name": "CryAboutIt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shinji_trolled",
+	"position": [
+		60,
+		30
+	],
+	"healthicon": "shinji-trolled",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		61,
+		155
+	],
+	"camera_position": [
+		-90,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

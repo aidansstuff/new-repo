@@ -1,0 +1,310 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "manga",
+		"player1": "kaworu-manga",
+		"player2": "asuka-manga",
+		"player3": null,
+		"events": [
+			[
+				200,
+				[
+					[
+						"Cinematic Mode",
+						"1",
+						"0.001"
+					],
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				11200,
+				[
+					[
+						"Change HUD Alpha",
+						"1",
+						"1.0"
+					],
+					[
+						"Cinematic Mode",
+						"0",
+						"1.0"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"2"
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"2.0"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"2.0"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"0.0"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.1"
+					],
+					[
+						"Camera Change Zoom",
+						"0.10",
+						""
+					]
+				]
+			],
+			[
+				54200,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"2"
+					],
+					[
+						"Change HUD Alpha",
+						"1",
+						"0.10"
+					],
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"2.0"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"1.0"
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.20",
+						"1.0"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Tween Cam Zoom",
+						"23.5",
+						"0.15"
+					],
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"2.0"
+					]
+				]
+			],
+			[
+				129400,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"0"
+					],
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.10"
+					],
+					[
+						"Camera Change Zoom",
+						"0.15",
+						""
+					]
+				]
+			],
+			[
+				129762.162162162,
+				[
+					[
+						"Change Scroll Speed",
+						"1.40",
+						"0.001"
+					]
+				]
+			],
+			[
+				130572.972972973,
+				[
+					[
+						"Change Game Alpha",
+						"0.0",
+						"0.0001"
+					],
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				130654.054054054,
+				[
+					[
+						"Change Game Alpha",
+						"1.0",
+						"0.0001"
+					],
+					[
+						"Change HUD Alpha",
+						"1.0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				130735.135135135,
+				[
+					[
+						"Change Game Alpha",
+						"0.0",
+						"0.0001"
+					],
+					[
+						"Change Game Alpha",
+						"0.0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				130816.216216216,
+				[
+					[
+						"Change Game Alpha",
+						"1.0",
+						"0.0001"
+					],
+					[
+						"Change HUD Alpha",
+						"1.0",
+						"0.0001"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"2",
+						"2"
+					],
+					[
+						"Camera Speed/Sway",
+						"1.5",
+						"25"
+					],
+					[
+						"Health Drain Note",
+						"0.05",
+						"1.0"
+					]
+				]
+			],
+			[
+				130897.297297297,
+				[
+					[
+						"Camera Change Zoom",
+						"0.00",
+						""
+					]
+				]
+			],
+			[
+				151572.972972973,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"1.75"
+					],
+					[
+						"Health Drain Note",
+						"0.00",
+						"1.0"
+					],
+					[
+						"Camera Speed/Sway",
+						"1.0",
+						"20"
+					],
+					[
+						"Camera Change Zoom",
+						"0.0",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.0",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Homophobia",
+		"maniaType": 0
+	}
+}

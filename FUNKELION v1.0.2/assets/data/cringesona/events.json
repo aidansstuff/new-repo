@@ -1,0 +1,500 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "cringe",
+		"player1": "bf-cringe",
+		"player2": "shinji-trolled",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Game Alpha",
+						"0.0",
+						"0.001"
+					],
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.001"
+					]
+				]
+			],
+			[
+				4682.92682926829,
+				[
+					[
+						"Change Game Alpha",
+						"1.0",
+						"4"
+					]
+				]
+			],
+			[
+				14048.7804878049,
+				[
+					[
+						"Change HUD Alpha",
+						"1.0",
+						"0.5"
+					]
+				]
+			],
+			[
+				16243.9024390244,
+				[
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.5"
+					],
+					[
+						"Play Animation",
+						"crying",
+						"dad"
+					],
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				18731.7073170732,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					],
+					[
+						"Change HUD Alpha",
+						"1.0",
+						"0.5"
+					]
+				]
+			],
+			[
+				37170.7317073171,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.005"
+					]
+				]
+			],
+			[
+				37243.9024390244,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.005"
+					]
+				]
+			],
+			[
+				37317.0731707317,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.005"
+					]
+				]
+			],
+			[
+				37317.0731707317,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.005"
+					]
+				]
+			],
+			[
+				37390.243902439,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.005"
+					]
+				]
+			],
+			[
+				37463.4146341463,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.033"
+					],
+					[
+						"Health Drain Note",
+						"0.015",
+						"0.49"
+					],
+					[
+						"Camera Speed/Sway",
+						"1.5",
+						"20"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"2"
+					],
+					[
+						"Camera Change Zoom",
+						"0.150",
+						""
+					]
+				]
+			],
+			[
+				46829.2682926829,
+				[
+					[
+						"Health Drain Note",
+						"",
+						""
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"1.0"
+					],
+					[
+						"Camera Speed/Sway",
+						"1.0",
+						"20"
+					],
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74926.8292682926,
+				[
+					[
+						"Tween Cam Zoom",
+						"3.0",
+						"0.1"
+					]
+				]
+			],
+			[
+				83121.9512195121,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84292.6829268292,
+				[
+					[
+						"Camera Change Zoom",
+						"0.20",
+						""
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"2"
+					],
+					[
+						"Camera Speed/Sway",
+						"1.5",
+						"20"
+					],
+					[
+						"Health Drain Note",
+						"0.03",
+						"0.49"
+					]
+				]
+			],
+			[
+				93658.5365853657,
+				[
+					[
+						"Health Drain Note",
+						"0.0",
+						"0.0"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"1.0"
+					],
+					[
+						"Camera Speed/Sway",
+						"1.0",
+						"20"
+					],
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112390.243902439,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					],
+					[
+						"Health Drain Note",
+						"0.03",
+						"0.49"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				115902.43902439,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				116487.804878049,
+				[
+					[
+						"Camera Change Zoom",
+						"0.25",
+						""
+					]
+				]
+			],
+			[
+				117073.170731707,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121756.097560975,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				125268.292682927,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				125853.658536585,
+				[
+					[
+						"Camera Change Zoom",
+						"0.25",
+						""
+					]
+				]
+			],
+			[
+				126439.024390244,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131121.951219512,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"1"
+					],
+					[
+						"Health Drain Note",
+						"0,0",
+						"0,0"
+					],
+					[
+						"Tween Cam Zoom",
+						"10",
+						"0.15"
+					]
+				]
+			],
+			[
+				149268.292682927,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.008"
+					]
+				]
+			],
+			[
+				149414.634146341,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.008"
+					]
+				]
+			],
+			[
+				149560.975609756,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.008"
+					]
+				]
+			],
+			[
+				149634.146341463,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.008"
+					]
+				]
+			],
+			[
+				149707.317073171,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.008"
+					]
+				]
+			],
+			[
+				149780.487804878,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.008"
+					]
+				]
+			],
+			[
+				149853.658536585,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.033"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"2"
+					],
+					[
+						"Health Drain Note",
+						"0.04",
+						"0.49"
+					],
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					],
+					[
+						"Camera Change Zoom",
+						"0.25",
+						""
+					],
+					[
+						"Camera Speed/Sway",
+						"1.75",
+						"20"
+					]
+				]
+			],
+			[
+				168585.365853659,
+				[
+					[
+						"Camera Speed/Sway",
+						"1.0",
+						"20"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"0.0"
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.033"
+					],
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					],
+					[
+						"Health Drain Note",
+						"0.0",
+						"0.0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-train",
+		"bpm": 205,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Cringesona",
+		"maniaType": 0
+	}
+}

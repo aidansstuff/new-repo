@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				79,
+				15
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				7
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				79,
+				15
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": [
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				27
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "UP",
+			"indices": [
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				7
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": [
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shinji_snapped",
+	"position": [
+		10,
+		100
+	],
+	"healthicon": "shinji-snapped",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		61,
+		160
+	],
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
