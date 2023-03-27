@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bullethell.png">
-	<!-- Created with Adobe Animate version 21.0.9.42677 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="bh_star0000" x="2" y="2" width="124" height="131" pivotX="3" pivotY="4" frameX="-4" frameY="0" frameWidth="132" frameHeight="131"/>
-	<SubTexture name="bh_star0001" x="2" y="2" width="124" height="131" frameX="-4" frameY="0" frameWidth="132" frameHeight="131"/>
-	<SubTexture name="bh_star0002" x="128" y="2" width="132" height="125" frameX="0" frameY="-3" frameWidth="132" frameHeight="131"/>
-	<SubTexture name="bh_star0003" x="128" y="2" width="132" height="125" frameX="0" frameY="-3" frameWidth="132" frameHeight="131"/>
-</TextureAtlas>

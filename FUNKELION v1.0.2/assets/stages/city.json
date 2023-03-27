@@ -1,9 +1,0 @@
-{
-	"directory": "shinjiweek",
-	"defaultZoom": 0.80,
-	"isPixelStage": false,
-
-	"boyfriend": [1650, 350],
-	"girlfriend": [800, 2350],
-	"opponent": [650, 250]
-}
