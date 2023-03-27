@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rei idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				27
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rei down miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rei sing down"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rei right miss"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rei sing right"
+		},
+		{
+			"offsets": [
+				2,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rei sing up"
+		},
+		{
+			"offsets": [
+				2,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "rei up miss"
+		},
+		{
+			"offsets": [
+				21,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rei sing left"
+		},
+		{
+			"offsets": [
+				21,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "rei left miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rei_Elevator",
+	"position": [
+		-200,
+		160
+	],
+	"healthicon": "rei",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		65,
+		187
+	],
+	"camera_position": [
+		-300,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

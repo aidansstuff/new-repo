@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shinji_trolled.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CryAboutIt0000" x="3" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0001" x="3" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0002" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0003" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0004" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0005" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0006" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0007" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0008" x="1973" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0009" x="1973" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0010" x="2367" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0011" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0012" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0013" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0014" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0015" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0016" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0017" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0018" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0019" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0020" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0021" x="2761" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0022" x="3155" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0023" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0024" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0025" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0026" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0027" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0028" x="1973" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0029" x="2761" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0030" x="3155" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0031" x="3549" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0032" x="3" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0033" x="3" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0034" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0035" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0036" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0037" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0038" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0039" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0040" x="3" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0041" x="3" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0042" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0043" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0044" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0045" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0046" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0047" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0048" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0049" x="791" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0050" x="397" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0051" x="1579" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0052" x="1185" y="3" width="294" height="691" frameX="0" frameY="-4" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0053" x="2761" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0054" x="3155" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0055" x="3155" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0056" x="1973" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0057" x="1973" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="CryAboutIt0058" x="3155" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0059" x="3155" y="3" width="294" height="695"/>
+	<SubTexture name="CryAboutIt0060" x="1973" y="3" width="294" height="693" frameX="0" frameY="-2" frameWidth="294" frameHeight="695"/>
+	<SubTexture name="Sdown0000" x="3" y="798" width="367" height="700"/>
+	<SubTexture name="Sdown0001" x="3" y="798" width="367" height="700"/>
+	<SubTexture name="Sdown0002" x="470" y="798" width="343" height="693" frameX="-10" frameY="-7" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0003" x="470" y="798" width="343" height="693" frameX="-10" frameY="-7" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0004" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0005" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0006" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0007" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0008" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0009" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0010" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0011" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0012" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sdown0013" x="913" y="798" width="343" height="690" frameX="-13" frameY="-10" frameWidth="367" frameHeight="700"/>
+	<SubTexture name="Sidle0000" x="1356" y="798" width="336" height="687" frameX="0" frameY="-9" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0001" x="1356" y="798" width="336" height="687" frameX="0" frameY="-9" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0002" x="1792" y="798" width="329" height="696" frameX="-6" frameY="0" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0003" x="1792" y="798" width="329" height="696" frameX="-6" frameY="0" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0004" x="2221" y="798" width="315" height="696" frameX="-11" frameY="0" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0005" x="2221" y="798" width="315" height="696" frameX="-11" frameY="0" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0006" x="2636" y="798" width="318" height="692" frameX="-13" frameY="-4" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0007" x="2636" y="798" width="318" height="692" frameX="-13" frameY="-4" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0008" x="3054" y="798" width="320" height="692" frameX="-12" frameY="-4" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0009" x="3054" y="798" width="320" height="692" frameX="-12" frameY="-4" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0010" x="3474" y="798" width="320" height="691" frameX="-12" frameY="-5" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0011" x="3474" y="798" width="320" height="691" frameX="-12" frameY="-5" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0012" x="3474" y="798" width="320" height="691" frameX="-12" frameY="-5" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sidle0013" x="3474" y="798" width="320" height="691" frameX="-12" frameY="-5" frameWidth="336" frameHeight="696"/>
+	<SubTexture name="Sleft0000" x="3" y="1598" width="349" height="675" frameX="0" frameY="-6" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0001" x="3" y="1598" width="349" height="675" frameX="0" frameY="-6" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0002" x="452" y="1598" width="324" height="677" frameX="-17" frameY="-4" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0003" x="452" y="1598" width="324" height="677" frameX="-17" frameY="-4" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0004" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0005" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0006" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0007" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0008" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0009" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0010" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0011" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0012" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sleft0013" x="876" y="1598" width="313" height="681" frameX="-24" frameY="0" frameWidth="349" frameHeight="681"/>
+	<SubTexture name="Sright0000" x="1289" y="1598" width="364" height="691" frameX="0" frameY="-3" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0001" x="1289" y="1598" width="364" height="691" frameX="0" frameY="-3" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0002" x="1753" y="1598" width="343" height="690" frameX="-1" frameY="-4" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0003" x="1753" y="1598" width="343" height="690" frameX="-1" frameY="-4" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0004" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0005" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0006" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0007" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0008" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0009" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0010" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0011" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0012" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sright0013" x="2196" y="1598" width="337" height="694" frameX="0" frameY="0" frameWidth="364" frameHeight="694"/>
+	<SubTexture name="Sup0000" x="2633" y="1598" width="369" height="679" frameX="-7" frameY="-15" frameWidth="381" frameHeight="694"/>
+	<SubTexture name="Sup0001" x="2633" y="1598" width="369" height="679" frameX="-7" frameY="-15" frameWidth="381" frameHeight="694"/>
+	<SubTexture name="Sup0002" x="3102" y="1598" width="371" height="689" frameX="-5" frameY="-5" frameWidth="381" frameHeight="694"/>
+	<SubTexture name="Sup0003" x="3102" y="1598" width="371" height="689" frameX="-5" frameY="-5" frameWidth="381" frameHeight="694"/>
+	<SubTexture name="Sup0004" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0005" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0006" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0007" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0008" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0009" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0010" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0011" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0012" x="3573" y="1598" width="381" height="694"/>
+	<SubTexture name="Sup0013" x="3573" y="1598" width="381" height="694"/>
+</TextureAtlas>

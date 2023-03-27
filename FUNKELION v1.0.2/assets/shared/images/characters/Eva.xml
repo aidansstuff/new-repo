@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eva.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN instance 10000" x="2" y="2" width="1096" height="1226" pivotX="74.85" pivotY="61.4"/>
+	<SubTexture name="DOWN instance 10001" x="2" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10002" x="1100" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10003" x="1100" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10004" x="2198" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10005" x="2198" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10006" x="3296" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10007" x="3296" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10008" x="4394" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10009" x="4394" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10010" x="4394" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10011" x="4394" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10012" x="4394" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWN instance 10013" x="4394" y="2" width="1096" height="1226"/>
+	<SubTexture name="DOWmiss instance 10000" x="5492" y="2" width="1113" height="1066" pivotX="65.65" pivotY="-23.8"/>
+	<SubTexture name="DOWmiss instance 10001" x="6607" y="2" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10002" x="6607" y="2" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10003" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10004" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10005" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10006" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10007" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10008" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10009" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10010" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10011" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10012" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="DOWmiss instance 10013" x="2" y="1230" width="1113" height="1066"/>
+	<SubTexture name="IDLE instance 10000" x="1117" y="1230" width="1102" height="1063" pivotX="58.85" pivotY="7.5"/>
+	<SubTexture name="IDLE instance 10001" x="1117" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10002" x="2221" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10003" x="2221" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10004" x="3325" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10005" x="3325" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10006" x="4429" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10007" x="4429" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10008" x="5533" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10009" x="5533" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10010" x="6637" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10011" x="6637" y="1230" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10012" x="2" y="2298" width="1102" height="1063"/>
+	<SubTexture name="IDLE instance 10013" x="2" y="2298" width="1102" height="1063"/>
+	<SubTexture name="LEFT instance 10000" x="1106" y="2298" width="1074" height="1091" pivotX="33" pivotY="2.5"/>
+	<SubTexture name="LEFT instance 10001" x="1106" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10002" x="2182" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10003" x="2182" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10004" x="3258" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10005" x="3258" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10006" x="4334" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10007" x="4334" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10008" x="5410" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10009" x="5410" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10010" x="5410" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10011" x="5410" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10012" x="5410" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFT instance 10013" x="5410" y="2298" width="1074" height="1091"/>
+	<SubTexture name="LEFmiss instance 10000" x="6486" y="2298" width="1058" height="1080" pivotX="46.65" pivotY="-8.55"/>
+	<SubTexture name="LEFmiss instance 10001" x="2" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10002" x="2" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10003" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10004" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10005" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10006" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10007" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10008" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10009" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10010" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10011" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10012" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="LEFmiss instance 10013" x="1062" y="3391" width="1058" height="1080"/>
+	<SubTexture name="RIGHT instance 10000" x="2122" y="3391" width="1153" height="1048" pivotX="9.95" pivotY="33.75"/>
+	<SubTexture name="RIGHT instance 10001" x="2122" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10002" x="3277" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10003" x="3277" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10004" x="4432" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10005" x="4432" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10006" x="5587" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10007" x="5587" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10008" x="6742" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10009" x="6742" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10010" x="6742" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10011" x="6742" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10012" x="6742" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHT instance 10013" x="6742" y="3391" width="1153" height="1048"/>
+	<SubTexture name="RIGHmiss instance 10000" x="2" y="4473" width="1174" height="1032" pivotX="7.9" pivotY="23.65"/>
+	<SubTexture name="RIGHmiss instance 10001" x="1178" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10002" x="1178" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10003" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10004" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10005" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10006" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10007" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10008" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10009" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10010" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10011" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10012" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="RIGHmiss instance 10013" x="2354" y="4473" width="1174" height="1032"/>
+	<SubTexture name="UP instance 10000" x="3530" y="4473" width="1095" height="1159" pivotX="43.95" pivotY="170.7"/>
+	<SubTexture name="UP instance 10001" x="3530" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10002" x="4627" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10003" x="4627" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10004" x="5724" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10005" x="5724" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10006" x="6821" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10007" x="6821" y="4473" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10008" x="2" y="5634" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10009" x="2" y="5634" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10010" x="2" y="5634" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10011" x="2" y="5634" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10012" x="2" y="5634" width="1095" height="1159"/>
+	<SubTexture name="UP instance 10013" x="2" y="5634" width="1095" height="1159"/>
+	<SubTexture name="Umiss instance 10000" x="1099" y="5634" width="1132" height="1022" pivotX="40.35" pivotY="52.7"/>
+	<SubTexture name="Umiss instance 10001" x="2233" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10002" x="2233" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10003" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10004" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10005" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10006" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10007" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10008" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10009" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10010" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10011" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10012" x="3367" y="5634" width="1132" height="1022"/>
+	<SubTexture name="Umiss instance 10013" x="3367" y="5634" width="1132" height="1022"/>
+</TextureAtlas>

@@ -1,0 +1,215 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "train",
+		"player1": "bf",
+		"player2": "shinji",
+		"player3": null,
+		"events": [
+			[
+				23529.4117647059,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				27647.0588235294,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32941.1764705882,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				37058.8235294118,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"2",
+						"1.5"
+					]
+				]
+			],
+			[
+				75294.1176470588,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				84117.6470588235,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89411.7647058823,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				93529.4117647059,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94117.6470588235,
+				[
+					[
+						"Camera Speed/Sway",
+						"1.15",
+						"25"
+					],
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"1.75"
+					],
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				101176.470588235,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				102352.941176471,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103529.411764706,
+				[
+					[
+						"Camera Change Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				110588.235294118,
+				[
+					[
+						"Camera Change Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				111764.705882353,
+				[
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112941.176470588,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"",
+						""
+					],
+					[
+						"Camera Speed/Sway",
+						"1.0",
+						"20"
+					]
+				]
+			],
+			[
+				145882.352941177,
+				[
+					[
+						"Change Game Alpha",
+						"0.0",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-train",
+		"bpm": 102,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Vacate",
+		"maniaType": 0
+	}
+}

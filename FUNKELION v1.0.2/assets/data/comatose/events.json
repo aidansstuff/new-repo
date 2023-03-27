@@ -1,0 +1,160 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "hospital",
+		"player1": "shinji-hospital",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				157.894736842105,
+				[
+					[
+						"Change HUD Alpha",
+						"0",
+						"0.0001"
+					],
+					[
+						"Cinematic Mode",
+						"1",
+						"0.001"
+					]
+				]
+			],
+			[
+				7578.94736842105,
+				[
+					[
+						"Cinematic Mode",
+						"0",
+						"1.5"
+					],
+					[
+						"Change HUD Alpha",
+						"1",
+						"1.5"
+					]
+				]
+			],
+			[
+				30315.7894736842,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"0.001"
+					]
+				]
+			],
+			[
+				32842.1052631579,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"1.75"
+					]
+				]
+			],
+			[
+				42947.3684210526,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				53052.6315789473,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"2.5"
+					]
+				]
+			],
+			[
+				63157.894736842,
+				[
+					[
+						"Tween Cam Zoom",
+						"10",
+						"0.1"
+					]
+				]
+			],
+			[
+				72710.5263157894,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				73263.1578947368,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"1",
+						"1.75"
+					],
+					[
+						"Camera Change Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87157.894736842,
+				[
+					[
+						"Camera Zoom Freq/Depth",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				92210.5263157894,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1.5"
+					]
+				]
+			],
+			[
+				123789.47368421,
+				[
+					[
+						"Change Game Alpha",
+						"0.0",
+						"0.0001"
+					],
+					[
+						"Change HUD Alpha",
+						"0.0",
+						"0.0001"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 95,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Comatose",
+		"maniaType": 0
+	}
+}
